@@ -36,7 +36,7 @@ checkpoint-handoff/
 
 ### Claude Code
 ```bash
-git clone https://github.com/<你的用户名>/checkpoint-handoff.git ~/.claude/skills/checkpoint-handoff
+git clone https://github.com/CHW8225/checkpoint-handoff.git ~/.claude/skills/checkpoint-handoff
 ```
 
 ### 其他支持 SKILL.md 格式的 AI 工具
