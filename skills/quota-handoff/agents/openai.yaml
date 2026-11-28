@@ -1,0 +1,6 @@
+interface:
+  display_name: "额度交接与恢复"
+  short_description: "在额度剩余不超过8%时保存进度，并在额度刷新后核验条件继续原任务"
+  default_prompt: "使用 $quota-handoff 处理当前任务：短周期额度剩余不超过8%时保存交接，登记恢复唤醒，额度刷新并核验后继续。"
+policy:
+  allow_implicit_invocation: true
